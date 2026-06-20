@@ -9,7 +9,7 @@ I care about software that is understandable, maintainable, and useful under rea
 ## Start Here
 
 **NASA Space Explorer**  
-Full-stack React, TypeScript, Node, and Express app for exploring NASA open data. It includes REST API routes, Docker/Railway deployment notes, and test scaffolding.
+Full-stack React, TypeScript, Node, and Express app for exploring NASA open data. It includes REST API routes, Docker/Railway deployment notes, and passing backend route tests.
 
 - Source: https://github.com/MarcoLadeira/NasaAPI
 - Focus: TypeScript, React, Express, API integration, deployment, UX structure
