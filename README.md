@@ -52,4 +52,4 @@ ASP.NET Core MVC and EF Core web app for a small-business nail studio domain mod
 ## Contact
 
 Best route: [marcoladeiraworkemail@gmail.com](mailto:marcoladeiraworkemail@gmail.com)  
-Professional profile: [linkedin.com/in/marco-ladeira](https://www.linkedin.com/in/marco-ladeira/)
+Professional profile: [linkedin.com/in/marco-ladeira](https://www.linkedin.com/in/marco-ladeira/)  
