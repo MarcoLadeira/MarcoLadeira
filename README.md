@@ -1,6 +1,6 @@
 # Marco Ladeira
 
-Full-stack Software Engineer at Fenergo, building reliable financial-platform systems, practical AI tooling, and polished product experiences.
+Full-stack Software Engineer at Fenergo, building reliable financial-platform systems, practical AI tooling, and polished SAAS product experiences.
 
 I care about software that is understandable, maintainable, and useful under real constraints. My strongest work sits between backend reliability, product clarity, and full-stack delivery.
 
