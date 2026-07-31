@@ -2,133 +2,96 @@
 
 # Marco Ladeira
 
-### AI-Focused Full-Stack Software Engineer
+### Software Engineer building production AI systems, developer tools and enterprise SaaS
 
-Building production AI applications, enterprise SaaS platforms, developer tools and polished product experiences.
+`C# / .NET` · `Python` · `TypeScript` · `React` · `AI Agents`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Ladeira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-ladeira/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-111111?style=flat-square&logo=githubpages&logoColor=white)](https://marcoladeira.github.io/MarcoLadeiraWebsite/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marcoladeiraworkemail@gmail.com)
+[Portfolio](https://marcoladeira.github.io/MarcoLadeiraWebsite/) · [LinkedIn](https://www.linkedin.com/in/marco-ladeira/) · [Email](mailto:marcoladeiraworkemail@gmail.com)
 
 </div>
 
-## About Me
+> I turn complex workflows into trustworthy products by combining backend reliability, product judgement and practical AI engineering.
 
-I am a full-stack Software Engineer at **Fenergo**, working across enterprise SaaS, AI/LLM applications, workflow automation and financial-technology systems.
+## Engineering impact
 
-- Co-built and shipped a **beta production AI application from scratch** as part of a three-person engineering team.
-- Helped deliver the product to **hundreds of real users and testers**.
-- Recognised with an **Exceeding** year-end performance rating.
-- Strongest at the intersection of **AI engineering, backend reliability, product thinking and full-stack delivery**.
-- Experienced with enterprise domains including **CLM, KYC/AML and workflow automation**.
+| Area | Evidence |
+| --- | --- |
+| **Production AI** | Co-built and shipped a beta production AI application from scratch as one of three engineers, reaching hundreds of real users and testers. |
+| **Enterprise software** | Build full-stack SaaS capabilities at **Fenergo** across AI/LLM applications, workflow automation and financial-services domains including CLM and KYC/AML. |
+| **Performance** | Earned an **Exceeding** year-end rating, the highest performance outcome in the review cycle. |
+| **Product ownership** | Design and build independent products from problem discovery and architecture through implementation, testing, UX and release planning. |
 
-I care about software that is useful, understandable and trustworthy. My best work turns complex technical systems into products that people can confidently use.
+## Selected products and projects
 
-## Featured Work
+### opAI — AI coding cost firewall and development workspace
 
-### opAI — AI Coding Cost Firewall and Development Workspace
+**Founder / Software Engineer · Private product in active development**
 
-**Private product in active development**
+opAI is a cross-platform, local-first workspace for AI-assisted software development. It unifies desktop and command-line workflows while helping developers control model usage, understand agent behaviour and reduce unnecessary AI spend.
 
-opAI is a cross-platform AI development workspace and local-first control plane for coding agents. It unifies desktop and command-line workflows while helping developers reduce unnecessary AI spend, understand agent activity and retain control over their codebase.
+**Engineering depth:** intelligent model routing, shared GUI/CLI architecture, token and cost accounting, streaming execution, cancellable process trees, repository-aware permissions, isolated Git worktrees, GitHub issue/PR automation, safety policies, execution receipts and evidence-based verification.
 
-Key areas include intelligent model routing, token and cost tracking, execution receipts, live activity timelines, repository awareness, Git and GitHub automation, cancellable agent runs, permission controls, isolated worktrees and evidence-based verification.
-
-**Focus:** Python, TypeScript, desktop development, CLI development, LLM integrations, agent orchestration, model routing, GitOps, testing, security and developer experience.
+**Stack:** Python, TypeScript, desktop UI, CLI engineering, LLM integrations, agent orchestration, Git/GitHub automation and automated testing.
 
 ---
 
-### QuotePack — Digital Product Platform for Irish Trade Businesses
+### QuotePack — product platform for Irish trade businesses
 
-**Private commercial project in active development**
+**Founder / Product Engineer · Private commercial project in active development**
 
-QuotePack is a product and operating platform designed to help small Irish trade businesses create faster, clearer and more profitable quotes without adopting heavy job-management software.
+QuotePack helps small Irish trade businesses create clearer, faster and more profitable quotes without adopting heavyweight job-management software. It combines a focused web product with deterministic margin, VAT, day-rate, job-profitability, materials and staged-payment calculators.
 
-The platform combines a Next.js web experience with browser-based margin, VAT, day-rate, profitability, materials and staged-payment calculators. It is supported by deterministic calculation engines, automated quality checks, accessibility testing, product governance, release gates and a structured evidence-led growth system.
+**Engineering depth:** reusable calculation engines, automated formula matrices, accessibility contracts, release gates, product governance, privacy-aware browser tools and evidence-led product expansion.
 
-**Focus:** Next.js, TypeScript, product engineering, deterministic calculators, automated QA, accessibility, business-system architecture and conversion-focused UX.
+**Stack:** Next.js, TypeScript, product engineering, automated QA, accessibility and conversion-focused UX.
 
 ---
 
 ### [NASA Space Explorer](https://github.com/MarcoLadeira/NasaAPI)
 
-A full-stack application for exploring NASA open data through a structured and accessible user experience.
+Public full-stack TypeScript application that exposes multiple NASA data sources through a responsive React interface and an Express API. Includes typed client/server boundaries, React Query caching, security middleware, backend route tests, Docker configuration and documented Railway deployment decisions.
 
-**Focus:** React, TypeScript, Node.js, Express, REST APIs, automated route testing, deployment and UX architecture.
+**Stack:** React, TypeScript, Node.js, Express, REST APIs, React Query, Docker and automated testing.
 
 ---
 
 ### [Personal Finance Dashboard](https://github.com/MarcoLadeira/Personal-Finance-Dashboard-with-Predictive-Analytics)
 
-An ASP.NET Core MVC application for modelling users, wallets, transactions, notifications, income, expenses and net balance.
+Public ASP.NET Core MVC application modelling users, wallets, transactions, notifications, income, expenses and net balance. Demonstrates EF Core domain modelling, migrations, service-layer separation, SQL Server configuration and strongly typed Razor views.
 
-**Focus:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, domain modelling and service-layer architecture.
+**Stack:** C#, .NET 8, ASP.NET Core MVC, Entity Framework Core, SQL Server and Razor.
 
 ---
 
-### [Marco Ladeira Portfolio](https://marcoladeira.github.io/MarcoLadeiraWebsite/)
+### [Portfolio](https://marcoladeira.github.io/MarcoLadeiraWebsite/)
 
-My public portfolio, featuring selected engineering work, project write-ups, contact routes and professional information.
+A public index of my selected engineering work, project write-ups and professional background.
 
-**Focus:** HTML, CSS, JavaScript, content architecture, SEO, responsive design and GitHub Pages.
+## Core engineering capabilities
 
-## Technical Strengths
+| Discipline | Capabilities |
+| --- | --- |
+| **AI and agents** | LLM integrations, agent orchestration, tool calling, model routing, MCP workflows, context management, prompt engineering, evaluation, safety controls and cost optimisation. |
+| **Backend and platform** | C#, .NET, ASP.NET Core, Python, Node.js, Express, REST APIs, Entity Framework Core, SQL Server, service layers and workflow automation. |
+| **Frontend and product** | TypeScript, React, Next.js, JavaScript, HTML/CSS, responsive interfaces, desktop applications, accessibility and UX architecture. |
+| **Engineering delivery** | Git, GitHub, pull requests, code review, automated testing, CI/CD, Docker, debugging, technical documentation and release verification. |
 
-### AI and Agent Engineering
+## How I work
 
-Large Language Models, AI agents, prompt engineering, model routing, context management, tool calling, agent orchestration, MCP workflows, cost optimisation, safety controls and evaluation-driven development.
+- Start with the user problem, constraints and measurable definition of success.
+- Keep product logic, infrastructure and presentation boundaries understandable.
+- Use AI agents to accelerate engineering without outsourcing judgement or verification.
+- Treat tests, observability, security and documentation as part of the product.
+- Prefer maintainable systems and honest evidence over impressive-looking complexity.
 
-### Backend and Platform Engineering
+## Current direction
 
-C#, .NET, ASP.NET Core, Python, Node.js, Express, REST APIs, Entity Framework Core, SQL Server, service-layer architecture, authentication, workflow automation and enterprise SaaS.
-
-### Frontend and Product Engineering
-
-React, TypeScript, JavaScript, Next.js, HTML, CSS, responsive interfaces, desktop application development, accessibility, UX architecture and product-focused implementation.
-
-### Engineering Delivery
-
-Git, GitHub, pull-request workflows, automated testing, CI/CD, Docker, repository automation, technical documentation, code review, debugging and release verification.
-
-## Technology Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## How I Work
-
-- Start with the user problem and define what a successful outcome looks like.
-- Design clear boundaries between product logic, infrastructure and presentation.
-- Use AI agents as engineering collaborators without outsourcing judgement or verification.
-- Make changes observable through tests, logs, evidence and understandable documentation.
-- Prefer maintainable systems over impressive-looking complexity.
-
-## Current Focus
-
-- Building and hardening **opAI** for an alpha release.
-- Developing **QuotePack** as a focused digital-product business platform.
-- Shipping reliable AI and enterprise software at Fenergo.
-- Deepening my work in agentic systems, AI-assisted development and trustworthy software automation.
-
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/marco-ladeira](https://www.linkedin.com/in/marco-ladeira/)
-- **Portfolio:** [marcoladeira.github.io/MarcoLadeiraWebsite](https://marcoladeira.github.io/MarcoLadeiraWebsite/)
-- **Email:** [marcoladeiraworkemail@gmail.com](mailto:marcoladeiraworkemail@gmail.com)
+I am especially interested in **AI Software Engineering, Applied AI, developer tooling, platform engineering and product-focused full-stack work** where I can own meaningful capabilities end to end.
 
 <div align="center">
 
-**AI engineering · Full-stack development · Enterprise SaaS · Developer tools**
+### Build useful systems. Make the reasoning visible. Verify the result.
+
+[View my portfolio](https://marcoladeira.github.io/MarcoLadeiraWebsite/) · [Connect on LinkedIn](https://www.linkedin.com/in/marco-ladeira/) · [Email me](mailto:marcoladeiraworkemail@gmail.com)
 
 </div>
