@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Marco Ladeira — AI-focused Software Engineer</title>
+  <desc id="desc">Professional GitHub profile banner for Marco Ladeira, focused on production AI, developer tools and enterprise software.</desc>
+  <rect width="1280" height="320" fill="#111714"/>
+  <rect x="56" y="48" width="8" height="224" rx="4" fill="#B7A06A"/>
+  <circle cx="1170" cy="72" r="88" fill="none" stroke="#27342E" stroke-width="2"/>
+  <circle cx="1170" cy="72" r="54" fill="none" stroke="#27342E" stroke-width="2"/>
+  <path d="M1050 245H1228" stroke="#27342E" stroke-width="2"/>
+  <path d="M1090 220H1228" stroke="#27342E" stroke-width="2"/>
+  <text x="96" y="116" fill="#F4F1E8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="0.5">Marco Ladeira</text>
+  <text x="98" y="166" fill="#D7D1C2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="500">AI-focused Software Engineer</text>
+  <text x="98" y="207" fill="#AEB8B1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Production AI · Developer Tools · Enterprise SaaS</text>
+  <text x="98" y="247" fill="#B7A06A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">C# / .NET · Python · TypeScript · React · AI Agents</text>
+</svg>
