@@ -23,7 +23,7 @@ ASP.NET Core MVC and Entity Framework Core dashboard for modeling users, wallets
 - Verification: `dotnet build "Personal Finance DashBoard.sln"` succeeds
 
 **Marco Ladeira Portfolio**  
-Static GitHub Pages portfolio with work pages, contact routes, structured metadata, writing, updates, and a resume download path.
+Static GitHub Pages portfolio with work pages, contact routes, structured metadata, writing, updates, and a resume download path. 
 
 - Live: https://marcoladeira.github.io/MarcoLadeiraWebsite/
 - Source: https://github.com/MarcoLadeira/MarcoLadeiraWebsite
