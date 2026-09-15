@@ -28,7 +28,7 @@ My strongest work sits where **AI engineering, backend reliability, product judg
 
 | Project | What it solves | Engineering signals |
 | --- | --- | --- |
-| **opAI** · Private product | A local-first AI coding cost firewall and cross-platform development workspace that helps developers control model usage, understand agent activity and reduce unnecessary AI spend. | Model routing, shared GUI/CLI architecture, streaming execution, cost accounting, cancellable runs, repository safety, GitHub automation, isolated worktrees and evidence-based verification. |
+| **Vesta** · Private product | A local-first AI coding cost firewall and cross-platform development workspace that helps developers control model usage, understand agent activity and reduce unnecessary AI spend. | Model routing, shared GUI/CLI architecture, streaming execution, cost accounting, cancellable runs, repository safety, GitHub automation, isolated worktrees and evidence-based verification. |
 | **QuotePack** · Private commercial product | A product platform that helps small Irish trade businesses create clearer, faster and more profitable quotes without heavyweight job-management software. | Next.js, deterministic calculators, formula QA, accessibility contracts, privacy-aware browser tools, product governance and evidence-led growth. |
 | **[NASA Space Explorer](https://github.com/MarcoLadeira/NasaAPI)** · Public | A responsive full-stack application for exploring multiple NASA open-data services. | React, TypeScript, Node.js, Express, typed API boundaries, React Query, backend route tests, security middleware, Docker and Railway deployment. |
 | **[Personal Finance Dashboard](https://github.com/MarcoLadeira/Personal-Finance-Dashboard-with-Predictive-Analytics)** · Public | An ASP.NET Core MVC dashboard for users, wallets, transactions, notifications, income, expenses and net balance. | C#, .NET 8, MVC, EF Core domain modelling, migrations, SQL Server, service layers, Razor views and verified build instructions. |
@@ -65,7 +65,7 @@ My strongest work sits where **AI engineering, backend reliability, product judg
 
 ## Current direction
 
-- Building and hardening **opAI** toward an alpha release.
+- Building and hardening **Vesta** toward an alpha release.
 - Developing **QuotePack** as a focused commercial product platform.
 - Shipping reliable AI and enterprise software at **Fenergo**.
 - Deepening my work in applied AI, agentic systems, developer tooling and trustworthy software automation.
