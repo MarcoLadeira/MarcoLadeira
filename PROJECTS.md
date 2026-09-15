@@ -2,12 +2,12 @@
 
 This page gives hiring managers and engineers a deeper view of the products and systems highlighted on my GitHub profile. Public repositories are linked directly. Private products are described at a product and architecture level without exposing proprietary code or sensitive implementation details.
 
-## opAI — AI coding cost firewall and development workspace
+## Vesta — AI coding cost firewall and development workspace
 
 **Role:** Founder / Software Engineer  
 **Status:** Private product in active development
 
-opAI is a cross-platform, local-first workspace for AI-assisted software development. It is designed to reduce unnecessary model spend while making agent execution more transparent, controllable and verifiable.
+Vesta is a cross-platform, local-first workspace for AI-assisted software development. It is designed to reduce unnecessary model spend while making agent execution more transparent, controllable and verifiable.
 
 ### Problem
 
